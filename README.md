@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DistroDaddy
+- 👀 I’m interested in Linux and systems engineering.
+- 🌱 I’m currently learning Bash and C.
